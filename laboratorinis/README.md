@@ -2,13 +2,13 @@
 
 | Variantas | ecoActCode |
 |------------- | ------------- |
-|18   | 123456 |
+|6   | 494100 |
 
 ### 1. Užduotis
 
 Atsakymas:
 
-![histograma](img/pavyzdys1.png)
+![histograma](img/plot1.png)
 
 Išvados:
 
@@ -16,7 +16,7 @@ Išvados:
 
 Atsakymas:
 
-![atlyginimai](img/pavyzdys2.png)
+![atlyginimai](img/plot2.png)
 
 Išvados:
 
@@ -25,7 +25,7 @@ Išvados:
 
 Atsakymas:
 
-![apdraustieji](img/pavyzdys3.png)
+![apdraustieji](img/plot3.png)
 
 Išvados:
 
