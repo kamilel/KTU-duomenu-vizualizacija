@@ -35,4 +35,3 @@ Išvados: Didžiausią apdraustų darbuotojų skaičių, lygų 47, turi įmonė 
 Shiny R aplikacijos nuotrauka:
 
 ![shiny app](img/shiny_plot.jpg)
-![shiny app](img/shiny_table.jpg)
