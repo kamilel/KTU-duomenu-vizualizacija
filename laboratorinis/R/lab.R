@@ -52,7 +52,7 @@ top5 %>%
     group_by(name) %>%
     arrange(desc(numInsured)) %>%
     slice_head(n = 1) %>%
-    ggplot(aes(x = name, y = numInsured, fill = name)) +
+    ggplot(aes(x = (reorder(name,-numInsured)), y = numInsured, fill = name)) +
     geom_bar(stat = 'identity', show.legend = FALSE) +
     geom_text(aes(label = numInsured), vjust = -0.3, size = 3.5) +
     theme_classic() +
